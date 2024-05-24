@@ -1,3 +1,3 @@
-## Hello there :wave:
+<h1>Hello there 👋</h1>
 
-### I'm a native android development student :computer:
+<h3>Fascinated by technology and mobile development.</h3> 
